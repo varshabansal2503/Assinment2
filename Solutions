@@ -92,7 +92,7 @@ int a=1;
         switch(a)
         {
            case 1:
-                System.out.println("january");
+                System.out.println("January");
                 break;
             case 2:
                 System.out.println("feb");
@@ -116,16 +116,16 @@ int a=1;
                 System.out.println("august");
                 break;
             case 9:
-                System.out.println("sept");
+                System.out.println("september");
                 break;
             case 10:
                 System.out.println("october");
                 break;
             case 11:
-                System.out.println("nove");
+                System.out.println("november");
                 break;
             case 12:
-                System.out.println("dec");
+                System.out.println("december");
                 break;
                 default:
                      System.out.println("enter valid num");
